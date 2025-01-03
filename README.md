@@ -1,3 +1,4 @@
+![Picsart_24-12-29_07-58-47-435](https://github.com/user-attachments/assets/a06de0d7-b188-4753-b1fc-ea428a0bb639)
 # Microsoft Cloud Integrations (code samples, videos, documentation)
 
 The `MicrosoftCloud` repo provides samples and hands-on exercises for different Microsoft Cloud integration scenarios across Azure, Microsoft 365, Power Platform, and GitHub.
